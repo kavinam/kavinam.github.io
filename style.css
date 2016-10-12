@@ -1,0 +1,51 @@
+@import 'https://fonts.googleapis.com/css?family=Arimo';
+body {
+  font-family: "Arimo", sans-serif;
+  background-color: #c5dbe0;
+  font-size: 16px;
+}
+
+.kavinamccoy {
+  text-align: center;
+  background-color: #6da7ba;
+  color: #ffffff;
+  padding: 40px;
+  margin-left:200px;
+  margin-right:200px;
+  margin-top:80px;
+  margin-bottom:80px;
+}
+
+.qualifications {
+  header-align: right;
+  text-align: ;
+  line-height: 2px;
+  color:
+}
+
+.skills {
+  line-height: 20px;
+  color:
+}
+
+}
+.experience {
+  line-spacing:100px;
+  line-height: 20px;
+  padding-right: 800px;
+  color:
+}
+
+.thumbnail {
+  display: block;
+  margin: auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px
+}
+.header {
+  text-align: center;
+  background: #ffffff;
+  color: #000000;
+  padding: 20px;
+}
